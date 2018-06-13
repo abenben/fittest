@@ -4,6 +4,7 @@
 $ pytest
 $ pytest test_one.py 
 $ pytest test_two.py
+$ pytest tasks
 $ pytest -v test_two.py
 $ pytest -v tasks/test_four.py::test_asdict
 $ pytest --collect-only
