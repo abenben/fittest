@@ -1,0 +1,6 @@
+[
+  "ch1/test_one.py::test_passing",
+  "ch1/test_three.py::test_defaults",
+  "ch1/test_three.py::test_member_access",
+  "ch1/test_two.py::test_failing"
+]
